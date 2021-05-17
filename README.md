@@ -1,22 +1,24 @@
 ### Hi there 👋
 Hi, I'm Luciano — a Civil Engineer and a Full Stack Web Developer. My working principle is learning by doing. 💯
 
-www.linkedin.com/in/luciano-ojeda-299305178
 
+linkedin in/luciano-ojeda-299305178/ github lucianoojeda36
+I work on .. 💻
+React.js . Redux . AWS Services
 
+Postgresql . Sequelize
 
+JavaScript . NodeJs. Express
 
-<!--
-**lucianoojeda36/lucianoojeda36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Absolute Favorites .. ⭐
+🦄 I love CODING
 
-Here are some ideas to get you started:
+👨‍💻 I BUILD resilient apps & services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check my Projects ✨
+Portfolio
+Vivero E-commerce
+Thank you! 🙏
+Thanks for reading about me. You can connect with me on .. 💻
+
+linkedin in/luciano-ojeda-299305178/ github lucianoojeda36
