@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hi, I'm Luciano — a Civil Engineer and a Full Stack Web Developer. My working principle is learning by doing. 💯
 <!--
 **lucianoojeda36/lucianoojeda36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
