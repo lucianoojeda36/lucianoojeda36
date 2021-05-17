@@ -1,8 +1,7 @@
 ### Hi there 👋
 Hi, I'm Luciano — a Civil Engineer and a Full Stack Web Developer. My working principle is learning by doing. 💯
 
-
-![image](https://user-images.githubusercontent.com/76688364/118566833-00df5a80-b74b-11eb-843b-e79341be9c46.png)
+www.linkedin.com/in/luciano-ojeda-299305178
 
 
 
