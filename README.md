@@ -1,5 +1,5 @@
   <h1 align = "center" >Bienvenido</h1>
-  <img src ="./assets/readme lucho portada.jpg" alt="Luciano" width ="100% "height =" 30% "/>
+  <img src ="./assets/readme_lucho_portada.jpeg" alt="Luciano" width ="100% "height =" 30% "/>
         <!-- <p>
           Es un placer para mi recibirte en mi repositorio, acá encontraras
           proyectos que he llevado a cavo en esto ultimos meses en los que me he
