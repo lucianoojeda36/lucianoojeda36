@@ -1,6 +1,6 @@
   <h1 align = "center" >Bienvenido</h1>
   <img src ="./assets/readme lucho portada.jpg" alt="Luciano" width ="100% "height =" 30% "/>
-        <p>
+        <!-- <p>
           Es un placer para mi recibirte en mi repositorio, acá encontraras
           proyectos que he llevado a cavo en esto ultimos meses en los que me he
           capacitado como Full Stack; en ellos podras apreciar los conocimientos
@@ -13,16 +13,16 @@
           desempeñarme de mejor manera en el ambito laboral.
         </p>
 
-<h1 align = "left"> Proyectos </h1>
+<!-- <h1 align = "left"> Proyectos </h1>
 
 - :robot: RobboStore: Ecommerce elaborado como evaluación del bootcamp Henry.
 <a href="https://github.com/Lismairy-Sanchez/Robbo-Store" target="_blank">
 <img align ="center" src ="./Readme_Images/Product_Page.jpeg" alt="Product_Page" width ="300px "height ="400 px" /></a>
 
    <br>
-   <br>
+   <br> --> -->
 
-- :beer: Nasdrovia: Ecommerce elaborado como evaluación del bootcamp Henry.
+<!-- - :beer: Nasdrovia: Ecommerce elaborado como evaluación del bootcamp Henry.
 <a href="https://github.com/Lismairy-Sanchez/Nasdrovia" target="_blank">
 <img align ="center" src ="./Readme_Images/home.png" alt="Product_Page" width ="350px "height ="250 px" /></a>
 
@@ -65,4 +65,4 @@
 <img src = "https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt =" linux "width ="80" height="30"/>
 </p>
 
-<p> <img align ="center" src = "https://github-readme-stats.vercel.app/api?username=lismairy-sanchez&count_private=true&show_icons=true&theme=radical" alt = "lismairy-sanchez" /> </p>
+<p> <img align ="center" src = "https://github-readme-stats.vercel.app/api?username=lismairy-sanchez&count_private=true&show_icons=true&theme=radical" alt = "lismairy-sanchez" /> </p> -->
