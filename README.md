@@ -1,115 +1,68 @@
+  <h1 align = "center" >Bienvenido</h1>
+  <img src ="./assets/readme lucho portada.jpg" alt="Luciano" width ="100% "height =" 30% "/>
+        <p>
+          Es un placer para mi recibirte en mi repositorio, acá encontraras
+          proyectos que he llevado a cavo en esto ultimos meses en los que me he
+          capacitado como Full Stack; en ellos podras apreciar los conocimientos
+          que he obtenido a lo largo de mi formación y mi desempeño al momento
+          de trabajar.
+        </p>
+        <p>
+          Es importante mencionar que estoy abierta a sugerencias y
+          recomendaciones con el fin de mejorar mis habilidades y poder
+          desempeñarme de mejor manera en el ambito laboral.
+        </p>
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
+<h1 align = "left"> Proyectos </h1>
 
-<!-- icons  -->
+- :robot: RobboStore: Ecommerce elaborado como evaluación del bootcamp Henry.
+<a href="https://github.com/Lismairy-Sanchez/Robbo-Store" target="_blank">
+<img align ="center" src ="./Readme_Images/Product_Page.jpeg" alt="Product_Page" width ="300px "height ="400 px" /></a>
 
-[1.1]: https://github.com/GerMoren/GerMoren/blob/main/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
-[2.1]: https://github.com/GerMoren/GerMoren/blob/main/assets/icons/icons8-github-48.png (github icon with padding)
-[3.1]: https://github.com/GerMoren/GerMoren/blob/main/assets/icons/icons8-twitter-48.png (twitter icon with padding)
-<!-- [4.1]: https://github.com/GerMoren/GerMoren/blob/master/assets/icons/icons8-medium-new-48.png (medium icon with padding)
-[5.1]: https://github.com/GerMoren/GerMoren/blob/master/assets/icons/icons8-stack-overflow-48.png (stackoverflow icon with padding)
-[6.1]: https://github.com/GerMoren/GerMoren/blob/master/assets/icons/icons8-dev-48.png (dev icon with padding) -->
+   <br>
+   <br>
 
-<!-- links to my social media accounts -->
+- :beer: Nasdrovia: Ecommerce elaborado como evaluación del bootcamp Henry.
+<a href="https://github.com/Lismairy-Sanchez/Nasdrovia" target="_blank">
+<img align ="center" src ="./Readme_Images/home.png" alt="Product_Page" width ="350px "height ="250 px" /></a>
 
-[1]: https://www.linkedin.com/in/luciano-ojeda-299305178
-[2]: https://www.github.com/lucianoojeda36
-<!-- [3]: https://www.twitter.com/MorenGer_ -->
-<!-- [4]: http://www.medium.com/@ombharatiya
-[5]: https://stackoverflow.com/users/8454203/om-bharatiya
-[6]: http://dev.to/ombharatiya -->
+   <br>
+   <br>
 
+- :desktop_computer: Henry-App: Campus Virtual elaborado como evaluación final del bootcamp Henry.
+  <a href="https://github.com/Lismairy-Sanchez/HenryApp" target="_blank">
+  <img align ="center" src ="./Readme_Images/student.jpeg" alt="Home_student" width ="350px" height="250px"/></a>
+  <br>
+  <br>
 
-# Civil Engineer & Full Stack Web Developer!!
+<h3 align = "left"> Conéctate conmigo: </h3>
+<p align = "left">
+<a href = "https://linkedin.com/in/lismairyalejandrasanchezhernandez" target = "blank"> <img align = "center" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Lk" width ="80" height="30"/> </a>
 
+<a href = "https://www.instagram.com/alesanchez_1112/" target = "blank"> 
+<img align = "center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "inst" width ="80" height="30" /> </a>
 
-Hi, I'm Luciano — a **Civil Engineer** and a **Full Stack Web Developer**. My working principle is learning by doing. 💯
+</p>
+<br>
+<h3 align = "left"> Idiomas y herramientas: </h3>
+<p align = "center"> 
+<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt ="html5 "width =" 80 "height ="30 "/> 
+<img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt =" css3" width ="80" height="30"/> 
+<img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt ="js "width =" 80 "height ="30 "/>
+<img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt =" react "width ="80" height="30"/> 
+<img src ="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt =" redux "width ="80" height="30"/> 
+<img src ="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt =" React-Router "width ="80" height="30"/>
+<img src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt ="bootstrap" width ="80" height="30"/>
+<img src ="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt = "materialize" width ="80" height="30"/>
+<img src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt ="dotnet"  width ="80" height="30"/>
+<img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt =" mongodb "width ="80" height="30"/>
+<img src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt ="mysql" width ="80" height="30" />
+<img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt =" nodejs "width ="80" height="30"/>
+<img src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt =" postgresql "width ="80" height="30"/>
+<img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt ="csharp" width ="80" height="30"/>
+<img src = "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt =" express "width ="80" height="30"/>
+<img src ="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt =" git" width ="80" height="30"/>
+<img src = "https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt =" linux "width ="80" height="30"/>
+</p>
 
-
-<img src ="C:\Users\lucianogabriel\Desktop\Readme luciano ojeda\lucianoojeda36\assets\icons\readme lucho portada.jpg" alt="Luciano" width ="100% "height =" 30% "/>
-
-<!-- section - intro -->
-
-<!-- section - social media icons -->
-
-[![linkedin LucianoOjeda][1.1]][1]
-[![github LucianoOjeda][2.1]][2]
-<!-- [![twitter GerMoren][3.1]][3] -->
-<!--
-[![medium ombharatiya][4.1]][4]
-[![stackoverflow om-bharatiya][5.1]][5]
-[![dev to ombharatiya][6.1]][6] -->
-
-<!-- section - social media icons -->
-
- ---
-
-<!-- section - skills -->
-
-## I work on .. 💻
-
-React.js . Redux . AWS Services
-
-Postgresql . Sequelize
-
-JavaScript . NodeJs. Express
-
-<!-- section - skills -->
-
-<!-- section - job details -->
-
-<!-- ## On the job  💯-->
-
-<!--  Software Engineer - [**HashedIn**](https://hashedin.com)  ⭐-->
-
-<!-- Microsoft Student Partner & AI Rockstar - [**Microsoft**](https://studentambassadors.microsoft.com/en-us)-->
-
-<!-- Research & Development Engineer Intern - [**ISRO**](https://www.isro.gov.in) -->
-
-
-<!-- section - job details -->
-
-
-<!-- section - interests -->
-
-## My Absolute Favorites .. ⭐
-
-🦄 I love _CODING_
-
-👨‍💻 I _BUILD_ resilient apps & services
-
-<!--📰 Reading & writing _TECH BLOGS_ -->
-
-<!-- 🍕 _HACKATHONS_ & problem solving -->
-
-<!-- section - interests -->
-
-<!-- section - blogs -->
-
-## Check my Projects ✨
-
-<!-- - [Portfolio](https://bit.ly/31o5o6L) -->
-<!-- - [Vivero E-commerce](https://vivero.vercel.app/home) -->
-
-
-
-## Thank you! 🙏
-
-Thanks for reading about me. You can connect with me on .. 💻
-
-<!-- section - social media icons -->
-
-[![linkedin LucianoOjeda][1.1]][1]
-[![github LucianoOjeda][2.1]][2]
-[![twitter LucianoOjeda][3.1]][3]
-<!--
-[![medium ombharatiya][4.1]][4]
-[![stackoverflow om-bharatiya][5.1]][5]
-[![dev to ombharatiya][6.1]][6] -->
-
-<!-- section - social media icons -->
-<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=GerMoren.visitor-badge">
- <p/>
-
+<p> <img align ="center" src = "https://github-readme-stats.vercel.app/api?username=lismairy-sanchez&count_private=true&show_icons=true&theme=radical" alt = "lismairy-sanchez" /> </p>
