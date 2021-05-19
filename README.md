@@ -1,10 +1,115 @@
-<h1 align="center">Hi 👋, I'm Luciano OJeda</h1>
-<h3 align="center">a Civil Engineer and a Full Stack Web Developer. My working principle is learning by doing. 💯</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luciano-ojeda-299305178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="luciano-ojeda-299305178" height="30" width="40" /></a>
-</p>
+<!-- links to social media icons -->
+<!-- no need to change these -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+<!-- icons  -->
+
+[1.1]: https://github.com/GerMoren/GerMoren/blob/main/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
+[2.1]: https://github.com/GerMoren/GerMoren/blob/main/assets/icons/icons8-github-48.png (github icon with padding)
+[3.1]: https://github.com/GerMoren/GerMoren/blob/main/assets/icons/icons8-twitter-48.png (twitter icon with padding)
+<!-- [4.1]: https://github.com/GerMoren/GerMoren/blob/master/assets/icons/icons8-medium-new-48.png (medium icon with padding)
+[5.1]: https://github.com/GerMoren/GerMoren/blob/master/assets/icons/icons8-stack-overflow-48.png (stackoverflow icon with padding)
+[6.1]: https://github.com/GerMoren/GerMoren/blob/master/assets/icons/icons8-dev-48.png (dev icon with padding) -->
+
+<!-- links to my social media accounts -->
+
+[1]: https://www.linkedin.com/in/luciano-ojeda-299305178
+[2]: https://www.github.com/lucianoojeda36
+<!-- [3]: https://www.twitter.com/MorenGer_ -->
+<!-- [4]: http://www.medium.com/@ombharatiya
+[5]: https://stackoverflow.com/users/8454203/om-bharatiya
+[6]: http://dev.to/ombharatiya -->
+
+
+# Civil Engineer & Full Stack Web Developer!!
+
+
+Hi, I'm Luciano — a **Civil Engineer** and a **Full Stack Web Developer**. My working principle is learning by doing. 💯
+
+
+<img src ="C:\Users\lucianogabriel\Desktop\Readme luciano ojeda\lucianoojeda36\assets\icons\readme lucho portada.jpg" alt="Luciano" width ="100% "height =" 30% "/>
+
+<!-- section - intro -->
+
+<!-- section - social media icons -->
+
+[![linkedin LucianoOjeda][1.1]][1]
+[![github LucianoOjeda][2.1]][2]
+<!-- [![twitter GerMoren][3.1]][3] -->
+<!--
+[![medium ombharatiya][4.1]][4]
+[![stackoverflow om-bharatiya][5.1]][5]
+[![dev to ombharatiya][6.1]][6] -->
+
+<!-- section - social media icons -->
+
+ ---
+
+<!-- section - skills -->
+
+## I work on .. 💻
+
+React.js . Redux . AWS Services
+
+Postgresql . Sequelize
+
+JavaScript . NodeJs. Express
+
+<!-- section - skills -->
+
+<!-- section - job details -->
+
+<!-- ## On the job  💯-->
+
+<!--  Software Engineer - [**HashedIn**](https://hashedin.com)  ⭐-->
+
+<!-- Microsoft Student Partner & AI Rockstar - [**Microsoft**](https://studentambassadors.microsoft.com/en-us)-->
+
+<!-- Research & Development Engineer Intern - [**ISRO**](https://www.isro.gov.in) -->
+
+
+<!-- section - job details -->
+
+
+<!-- section - interests -->
+
+## My Absolute Favorites .. ⭐
+
+🦄 I love _CODING_
+
+👨‍💻 I _BUILD_ resilient apps & services
+
+<!--📰 Reading & writing _TECH BLOGS_ -->
+
+<!-- 🍕 _HACKATHONS_ & problem solving -->
+
+<!-- section - interests -->
+
+<!-- section - blogs -->
+
+## Check my Projects ✨
+
+<!-- - [Portfolio](https://bit.ly/31o5o6L) -->
+<!-- - [Vivero E-commerce](https://vivero.vercel.app/home) -->
+
+
+
+## Thank you! 🙏
+
+Thanks for reading about me. You can connect with me on .. 💻
+
+<!-- section - social media icons -->
+
+[![linkedin LucianoOjeda][1.1]][1]
+[![github LucianoOjeda][2.1]][2]
+[![twitter LucianoOjeda][3.1]][3]
+<!--
+[![medium ombharatiya][4.1]][4]
+[![stackoverflow om-bharatiya][5.1]][5]
+[![dev to ombharatiya][6.1]][6] -->
+
+<!-- section - social media icons -->
+<p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=GerMoren.visitor-badge">
+ <p/>
+
