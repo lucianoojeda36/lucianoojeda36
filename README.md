@@ -1,4 +1,4 @@
-  <h1 align = "center" >Bienvenido</h1>
+  <h1 align = "center" >Welcome</h1>
   <img src ="./assets/readme_lucho_portada.jpeg" alt="Luciano" width ="100% "height =" 20% "/>
    <br>
         <p><b>
