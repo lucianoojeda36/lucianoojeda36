@@ -5,33 +5,8 @@
          Hi, I'm Luciano — a **Civil Engineer** and a **Full Stack Web Developer**. My working principle is learning by doing. 💯
         </b></p>
 
-         <!-- <p>
-          Es importante mencionar que estoy abierta a sugerencias y
-          recomendaciones con el fin de mejorar mis habilidades y poder
-          desempeñarme de mejor manera en el ambito laboral.
-        </p> --> -->
-
  <h1 align = "left"> Proyectos </h1>
 
-<!-- - :robot: RobboStore: Ecommerce elaborado como evaluación del bootcamp Henry.
-<a href="https://github.com/Lismairy-Sanchez/Robbo-Store" target="_blank">
-<img align ="center" src ="./Readme_Images/Product_Page.jpeg" alt="Product_Page" width ="300px "height ="400 px" /></a>
-
-   <br>
-   <br>  -->
-
- <!-- :beer: Nasdrovia: Ecommerce elaborado como evaluación del bootcamp Henry.
-<a href="https://github.com/Lismairy-Sanchez/Nasdrovia" target="_blank">
-<img align ="center" src ="./Readme_Images/home.png" alt="Product_Page" width ="350px "height ="250 px" /></a>
-
-   <br>
-   <br> -->
-<!-- 
-- :desktop_computer: Henry-App: Campus Virtual elaborado como evaluación final del bootcamp Henry.
-  <a href="https://github.com/Lismairy-Sanchez/HenryApp" target="_blank">
-  <img align ="center" src ="./Readme_Images/student.jpeg" alt="Home_student" width ="350px" height="250px"/></a>
-  <br>
-  <br> -->
 
 <h3 align = "left"> Conéctate conmigo: </h3>
 <p align = "left">
