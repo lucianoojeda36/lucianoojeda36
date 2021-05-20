@@ -1,8 +1,10 @@
   <h1 align = "center" >Bienvenido</h1>
   <img src ="./assets/readme_lucho_portada.jpeg" alt="Luciano" width ="100% "height =" 20% "/>
-        <p>
+   <br>
+        <p><b>
          Hi, I'm Luciano — a **Civil Engineer** and a **Full Stack Web Developer**. My working principle is learning by doing. 💯
-        </p>
+        </b></p>
+
          <!-- <p>
           Es importante mencionar que estoy abierta a sugerencias y
           recomendaciones con el fin de mejorar mis habilidades y poder
