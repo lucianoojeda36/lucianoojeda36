@@ -1,4 +1,4 @@
-  <img src ="./assets/readme_lucho_portada.jpeg" alt="Luciano" width ="100% "height =" 20% "/>
+  <img src ="./assets/readme_lucho_portada.jpeg" alt="Luciano" width ="100% "height =" 30% "/>
         <p>
          Hi, I'm Luciano — a **Civil Engineer** and a **Full Stack Web Developer**. My working principle is learning by doing. 💯
         </p>
