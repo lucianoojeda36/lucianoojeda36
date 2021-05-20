@@ -1,5 +1,5 @@
   <h1 align = "center" >Welcome</h1>
-  <img src ="./assets/readme_lucho_portada.jpeg" alt="Luciano" width ="100% "height =" 50vh "/>
+  <img src ="./assets/readme_lucho_portada.jpeg" alt="Luciano" width ="100% "height =" 100 px "/>
    <br>
         <p><b>
          Hi, I'm Luciano — a **Civil Engineer** and a **Full Stack Web Developer**. My working principle is learning by doing. 💯
