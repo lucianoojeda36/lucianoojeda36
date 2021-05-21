@@ -12,7 +12,7 @@
 
 <h3 align = "left"> Contact me: </h3>
 <p align = "left">
-<a href = "https://linkedin.com/in/luciano-ojeda-299305178" target = "blank"> <img align = "center" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Lk" width ="80" height="30"/> </a>
+<a href = "https://www.linkedin.com/in/lucianoojeda/" target = "blank"> <img align = "center" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "Lk" width ="80" height="30"/> </a>
 
 <a href = "https://www.instagram.com/lucianoojeda03/" target = "blank"> 
 <img align = "center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "inst" width ="80" height="30" /> </a>
