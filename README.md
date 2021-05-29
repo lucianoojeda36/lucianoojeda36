@@ -9,7 +9,7 @@
 
  <h1 align = "left"> Projects </h1>
 
- <a href = "https://cards-3ds.vercel.app/" target = "blank">
+ <a href = "https://cards-3ds.vercel.app/" target = "blank"></a>
 
 
 <h3 align = "left"> Contact me: </h3>
