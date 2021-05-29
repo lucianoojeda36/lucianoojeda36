@@ -7,9 +7,11 @@
    </b>
   </p>
 
- <h1 align = "left"> Projects </h1>
+ <h3 align = "left"> Projects </h3>
+ <br/>
+ <h5 align = "left"> CARDS-3D </h5>
 
- <a href = "https://cards-3ds.vercel.app/" target = "blank"> CARDS-3D</a>
+ <a href = "https://cards-3ds.vercel.app/" target = "blank"><img align = "center" src="./assets/cards3d.png" alt = "inst" width ="80" height="30" /></a>
 
 
 <h3 align = "left"> Contact me: </h3>
