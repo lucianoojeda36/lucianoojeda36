@@ -17,7 +17,7 @@
  <br/>
  <h5 align = "left"> SCROLL-NEON </h5>
 
- <a href = "https://scroll-neon.vercel.app/" target = "blank"><img align = "center" src="./assets/scroll-neon.png" alt = "inst"  /></a>
+ <a href = "https://scroll-neon.vercel.app/" target = "blank"><img align = "center" src="./assets/scroll-neon.png" alt = "inst" width ="80" height="30"  /></a>
 
 
 <h3 align = "left"> Contact me: </h3>
