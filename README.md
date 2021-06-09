@@ -3,7 +3,7 @@
   <br/>
   <p>
    <b>
-    Hi, I'm Luciano — a **Civil Engineer** and a **Full Stack Web Developer**. My working principle is learning by doing. 💯
+    Hi, I'm Luciano — a Civil Engineer and a Full Stack Web Developer. My working principle is learning by doing. 💯
    </b>
   </p>
 
@@ -39,10 +39,8 @@
 <img src ="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt =" React-Router "width ="80" height="30"/>
 <img src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt ="bootstrap" width ="80" height="30"/>
 <img src ="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt = "materialize" width ="80" height="30"/>
-<img src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt ="dotnet"  width ="80" height="30"/>
 <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt =" nodejs "width ="80" height="30"/>
 <img src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt =" postgresql "width ="80" height="30"/>
-<img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt ="csharp" width ="80" height="30"/>
 <img src = "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt =" express "width ="80" height="30"/>
 <img src ="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt =" git" width ="80" height="30"/>
 </p>
