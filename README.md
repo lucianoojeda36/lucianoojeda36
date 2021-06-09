@@ -35,6 +35,7 @@
 <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt =" css3" width ="80" height="30"/> 
 <img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt ="js "width =" 80 "height ="30 "/>
 <img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt =" react "width ="80" height="30"/> 
+<img src ="https://img.shields.io/badge/React-Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt =" react "width ="80" height="30"/> 
 <img src ="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt =" redux "width ="80" height="30"/> 
 <img src ="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt =" React-Router "width ="80" height="30"/>
 <img src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt ="bootstrap" width ="80" height="30"/>
