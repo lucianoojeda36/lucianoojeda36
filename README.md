@@ -13,7 +13,10 @@
  <h5 align = "left"> ECOMERCE DELIVIRY FOOD </h5>
 
  <a href = "https://ecommerce-restaurant.vercel.app/" target = "blank"><img align = "center" src="./assets/ecommerce.gif" alt = "inst"  /></a>
+  <br/>
+ <h5 align = "left"> CLON-NETFLIX </h5>
 
+ <a href = "https://github.com/lucianoojeda36/Clon-de-Netflix" target = "blank"><img align = "center" src="./assets/clon-netflix.gif" alt = "inst"  /></a>
  <br/>
  <h5 align = "left"> CARDS-3D </h5>
 
