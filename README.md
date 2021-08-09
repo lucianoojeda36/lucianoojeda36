@@ -43,8 +43,10 @@
 <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt ="html5 "width =" 80 "height ="30 "/> 
 <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt =" css3" width ="80" height="30"/> 
 <img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt ="js "width =" 80 "height ="30 "/>
+<img src ="https://img.shields.io/badge/TypeScript-11?style=for-the-badge&logo=TypeScript&logoColor=pink" alt =" git" width ="80" height="30"/>
+<img src ="https://img.shields.io/badge/Python-941?style=for-the-badge&logo=Python&logoColor=pink" alt =" git" width ="80" height="30"/>
 <img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt =" react "width ="80" height="30"/> 
-<img src ="https://img.shields.io/badge/React-Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt =" react "width ="80" height="30"/> 
+<img src ="https://img.shields.io/badge/React_Native-455232A?style=for-the-badge&logo=React&logoColor=61DAFB" alt =" react "width ="80" height="30"/> 
 <img src ="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt =" redux "width ="80" height="30"/> 
 <img src ="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt =" React-Router "width ="80" height="30"/>
 <img src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt ="bootstrap" width ="80" height="30"/>
@@ -53,5 +55,19 @@
 <img src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt =" postgresql "width ="80" height="30"/>
 <img src = "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt =" express "width ="80" height="30"/>
 <img src ="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt =" git" width ="80" height="30"/>
+<img src ="https://img.shields.io/badge/Sass-100000?style=for-the-badge&logo=Sass&logoColor=pink" alt =" git" width ="80" height="30"/>
+<img src ="https://img.shields.io/badge/Styled_Components-100000?style=for-the-badge&logo=Styled_Components&logoColor=green" alt =" git" width ="80" height="30"/>
+<img src ="https://img.shields.io/badge/Firebase-316192?style=for-the-badge&logo=Firebase&logoColor=pink" alt =" git" width ="80" height="30"/>
+<img src ="https://img.shields.io/badge/Mongodb-499492?style=for-the-badge&logo=Mongodb&logoColor=pink" alt =" git" width ="80" height="30"/>
+<img src ="https://img.shields.io/badge/My_SQL-659445?style=for-the-badge&logo=My_SQL&logoColor=pink" alt =" git" width ="80" height="30"/>
+<img src ="https://img.shields.io/badge/Less-119411?style=for-the-badge&logo=Less&logoColor=pink" alt =" git" width ="80" height="30"/>
+<img src ="https://img.shields.io/badge/Wordpress-298?style=for-the-badge&logo=Wordpress&logoColor=pink" alt =" git" width ="80" height="30"/>
+<img src ="https://img.shields.io/badge/Frontity-11211?style=for-the-badge&logo=Frontity&logoColor=pink" alt =" git" width ="80" height="30"/>
+<img src ="https://img.shields.io/badge/Nest_js-298?style=for-the-badge&logo=Nest_js&logoColor=pink" alt =" git" width ="80" height="30"/>
+<img src ="https://img.shields.io/badge/Next_js-198?style=for-the-badge&logo=Next_js&logoColor=pink" alt =" git" width ="80" height="30"/>
+<img src ="https://img.shields.io/badge/GraphQL-5648?style=for-the-badge&logo=GraphQL&logoColor=pink" alt =" git" width ="80" height="30"/>
+<img src ="https://img.shields.io/badge/Sequelize-876?style=for-the-badge&logo=Sequelize&logoColor=pink" alt =" git" width ="80" height="30"/>
+<img src ="https://img.shields.io/badge/Mongoose-345678?style=for-the-badge&logo=Mongoose&logoColor=pink" alt =" git" width ="80" height="30"/>
+<img src ="https://img.shields.io/badge/Git-300678?style=for-the-badge&logo=Git&logoColor=pink" alt =" git" width ="80" height="30"/>
 </p>
 
