@@ -24,9 +24,9 @@
 
 
  <br/> -->
-  <h5 align = "left"> ECOMERCE REACT NATVIE </h5>
+  <h5 align = "left"> COOK BOOK REACT NATVIE </h5>
 
- <a href = "https://github.com/lucianoojeda36/Ecommerce-Cotillon" target = "blank"><img align = "center" src="./assets/ecommerceNative.gif" alt = "inst"  /></a>
+ <a href = "https://github.com/lucianoojeda36/Book_cook_App" target = "blank"><img align = "center" src="./assets/cookBook2.gif" alt = "inst"  /></a>
 
 
  <br/>
