@@ -32,11 +32,11 @@
 <a href = "https://github.com/lucianoojeda36/Clon-de-Netflix" target = "blank"><img align = "center" src="./assets/clon-netflix.gif" alt = "inst"  /></a>
 <br/>
 
- <h5 align = "left"> CARDS-3D </h5>
+ <!-- <h5 align = "left"> CARDS-3D </h5>
 
 <a href = "https://cards-3ds.vercel.app/" target = "blank"><img align = "center" src="./assets/card3d.png" alt = "inst"  /></a>
 
- <br/>
+ <br/> -->
  <!-- <h5 align = "left"> SCROLL-NEON </h5>
 
  <!-- <a href = "https://scroll-neon.vercel.app/" target = "blank"><img align = "center" src="./assets/scrollneon.png" alt = "inst"  /></a>  -->
