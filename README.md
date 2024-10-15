@@ -1,6 +1,8 @@
+<br/>
+<h1 align="center">👋🏻 Hello, I'm Luciano Ojeda!</h2>
+
 <p align="center">
-  Hi there! 👋🏻  
-  I'm Luciano Ojeda, a passionate Full Stack Developer with a love for programming, technology, and problem-solving. I have experience in both the software and consulting industries, working on web development and mobile application projects with a diverse range of technologies.
+  I'm a passionate Full Stack Developer with a love for programming, technology, and problem-solving. I have experience in both the software and consulting industries, working on web development and mobile application projects with a diverse range of technologies.
 </p>
 
 <h2 align="left">🚀 What am I currently doing?</h2>
@@ -25,7 +27,6 @@
   <a href="https://github.com/lucianoojeda36/lucianoojeda36" target="blank">GitHub</a> | 
   <a href="https://www.linkedin.com/in/lucianoojeda/" target="blank">LinkedIn</a>
 </p>
-
 
 <h2 align="left">📂 Projects</h2>
 <br />
@@ -85,14 +86,10 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express" width="80" height="30" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="git" width="80" height="30" />
   <img src="https://img.shields.io/badge/Sass-100000?style=for-the-badge&logo=Sass&logoColor=pink" alt="sass" width="80" height="30" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase" width="80" height="30" />
-  <img src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=Docker&logoColor=blue" alt="docker" width="80" height="30" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" width="80" height="30" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" width="80" height="30" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black" alt="aws" width="80" height="30" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress" width="80" height="30" />
+  <img src="https://img.shields.io/badge/Jest-15.3.9?style=for-the-badge&logo=jest&logoColor=white" alt="jest" width="80" height="30" />
 </p>
 
-<h2 align="left">📝 My latest blog posts:</h2>
-<ul>
-  <li><a href="https://medium.com/@lucianoojeda36/10-trucos-de-react-para-ser-mas-efectivo-6b66fcd7b933" target="blank">10 Trucos de React para ser más efectivo</a></li>
-  <li><a href="https://medium.com/@lucianoojeda36/comparativa-entre-react-native-y-flutter-a7bc582665aa" target="blank">Comparativa entre React Native y Flutter</a></li>
-</ul>
-
-<p align="center">Thank you for visiting my profile! 😊</p>
