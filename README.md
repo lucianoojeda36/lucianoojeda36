@@ -35,13 +35,13 @@
 <br />
 <h4 align="left">COOK BOOK REACT NATIVE</h4>
 <a href="https://github.com/lucianoojeda36/Book_cook_App" target="blank">
-  <img align="center" src="./assets/cookBook.gif" alt="Cook Book React Native" style="width: 300px; height: 200px; object-fit: cover; object-position: center;" />
+  <img align="center" src="./assets/cookBook.gif" alt="Cook Book React Native" style="width: 130px; height: 200px; object-fit: cover; object-position: center;" />
 </a>
 <br /><br />
 
 <h4 align="left">GREEN GROCERY FLUTTER</h4>
 <a href="https://github.com/lucianoojeda36/green_grocery_mobile_app" target="blank">
-  <img align="center" src="./assets/greenGrocery.gif" alt="Green Grocery Flutter" style="width: 300px; height: 200px; object-fit: cover; object-position: center;" />
+  <img align="center" src="./assets/greenGrocery.gif" alt="Green Grocery Flutter" style="width: 130px; height: 200px; object-fit: cover; object-position: center;" />
 </a>
 <br /><br />
 
