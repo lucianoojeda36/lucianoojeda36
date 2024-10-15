@@ -25,32 +25,35 @@
 
 <p align="center">
   Feel free to explore my work and reach out!  
-  🌐 [Portfolio](https://portafolio-virid-two.vercel.app/) | [GitHub](https://github.com/lucianoojeda36/lucianoojeda36) | [LinkedIn](https://www.linkedin.com/in/lucianoojeda/)
+  🌐 <a href="https://portafolio-virid-two.vercel.app/" target="blank">Portfolio</a> | 
+  <a href="https://github.com/lucianoojeda36/lucianoojeda36" target="blank">GitHub</a> | 
+  <a href="https://www.linkedin.com/in/lucianoojeda/" target="blank">LinkedIn</a>
 </p>
+
 
 <h2 align="left">📂 Projects</h2>
 <br />
 <h4 align="left">COOK BOOK REACT NATIVE</h4>
 <a href="https://github.com/lucianoojeda36/Book_cook_App" target="blank">
-  <img align="center" src="./assets/cookBook.gif" alt="Cook Book React Native" width="300" height="200" />
+  <img align="center" src="./assets/cookBook.gif" alt="Cook Book React Native" style="width: 300px; height: 200px; object-fit: cover; object-position: center;" />
 </a>
 <br /><br />
 
 <h4 align="left">GREEN GROCERY FLUTTER</h4>
 <a href="https://github.com/lucianoojeda36/green_grocery_mobile_app" target="blank">
-  <img align="center" src="./assets/greenGrocery.gif" alt="Green Grocery Flutter" width="300" height="200" />
+  <img align="center" src="./assets/greenGrocery.gif" alt="Green Grocery Flutter" style="width: 300px; height: 200px; object-fit: cover; object-position: center;" />
 </a>
 <br /><br />
 
 <h4 align="left">ECOMMERCE DELIVERY FOOD</h4>
 <a href="https://ecommerce-restaurant.vercel.app/" target="blank">
-  <img align="center" src="./assets/ecommerce.gif" alt="Ecommerce Delivery Food" width="300" height="200" />
+  <img align="center" src="./assets/ecommerce.gif" alt="Ecommerce Delivery Food" style="width: 300px; height: 200px; object-fit: cover; object-position: center;" />
 </a>
 <br /><br />
 
 <h4 align="left">CLON-NETFLIX</h4>
 <a href="https://github.com/lucianoojeda36/Clon-de-Netflix" target="blank">
-  <img align="center" src="./assets/clon-netflix.gif" alt="Clon Netflix" width="300" height="200" />
+  <img align="center" src="./assets/clon-netflix.gif" alt="Clon Netflix" style="width: 300px; height: 200px; object-fit: cover; object-position: center;" />
 </a>
 <br />
 
@@ -85,9 +88,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" width="80" height="30" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express" width="80" height="30" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="git" width="80" height="30" />
-  <img src="https://img.shields.io/badge/Sass-100000?style=for-the-badge&logo=Sass&logoColor=pink" alt="git" width="80" height="30" />
-  <img src="https://img.shields.io/badge/Styled_Components-100000?style=for-the-badge&logo=Styled_Components&logoColor=green" alt="git" width="80" height="30" />
-  <img src="https://img.shields.io/badge/Firebase-316192?style=for-the-badge&logo=Firebase&logoColor=white" alt="firebase" width="80" height="30" />
+  <img src="https://img.shields.io/badge/Sass-100000?style=for-the-badge&logo=Sass&logoColor=pink" alt="sass" width="80" height="30" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase" width="80" height="30" />
   <img src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=Docker&logoColor=blue" alt="docker" width="80" height="30" />
 </p>
 
