@@ -1,10 +1,6 @@
-<h1 align="center">Welcome</h1>
-<img src="./assets/readme_lucho_portada.jpeg" alt="Luciano" width="100%" height="400px" />
-<br />
-
 <p align="center">
-  Hello! 👋🏻  
-  Welcome to my GitHub profile. I'm Luciano Ojeda, a passionate Full Stack Developer with a love for programming, technology, and problem-solving. With experience in the software and consulting industries, I have worked on web development and mobile application projects using a broad range of technologies.
+  Hi there! 👋🏻  
+  I'm Luciano Ojeda, a passionate Full Stack Developer with a love for programming, technology, and problem-solving. I have experience in both the software and consulting industries, working on web development and mobile application projects with a diverse range of technologies.
 </p>
 
 <h2 align="left">🚀 What am I currently doing?</h2>
