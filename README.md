@@ -14,12 +14,17 @@
 
 <h2 align="left">💻 My Favorite Technologies:</h2>
 <ul>
-  <li><strong>Programming Languages:</strong> JavaScript, TypeScript, Dart, Python, Java, SQL</li>
-  <li><strong>Frameworks:</strong> React, React Native, Next.js, NestJS, Django</li>
-  <li><strong>Databases:</strong> PostgreSQL, MySQL, MongoDB</li>
-  <li><strong>DevOps:</strong> AWS, Docker, CI/CD</li>
+  <li><strong>Programming Languages:</strong> JavaScript, TypeScript, Dart, Java, Python</li>
+  <li><strong>Frontend Frameworks:</strong> React, React Native, Next.js, Flutter, Styled Components, Bootstrap, Material UI, Ant Design</li>
+  <li><strong>Backend Frameworks:</strong> Node.js, Express, GraphQL, NestJS, Django, Flask, Spring Boot</li>
+  <li><strong>Databases:</strong> PostgreSQL, MySQL, SQL Server, MongoDB, Firebase</li>
+  <li><strong>Cloud & DevOps:</strong> AWS (EC2, S3, Lambda, Amplify), Docker, Firebase, Vercel, Netlify, CI/CD (GitLab, GitHub Actions)</li>
   <li><strong>Testing:</strong> Cypress, Jest</li>
+  <li><strong>Web Scraping:</strong> Puppeteer</li>
+  <li><strong>Methodologies:</strong> Agile (Scrum)</li>
+  <li><strong>Version Control & Collaboration:</strong> Git, Jira</li>
 </ul>
+
 
 <p align="center">
   Feel free to explore my work and reach out!  
