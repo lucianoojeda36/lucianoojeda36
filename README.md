@@ -42,8 +42,14 @@
 <br /><br />
 
 <h4 align="left">GREEN GROCERY FLUTTER</h4>
-<a href="https://github.com/lucianoojeda36/green_grocery_mobile_app" target="blank">
+<a href="https://github.com/lucianoojeda36/green_grocery_mobile_app" target="_blank">
   <img align="center" src="./assets/greenGrocery.gif" alt="Green Grocery Flutter" style="width: 130px; height: 200px; object-fit: cover; object-position: center;" />
+</a>
+<br /><br />
+
+<h4 align="left">API GATEWAY AND AUTHENTICATION MICROSERVICE</h4>
+<a href="https://github.com/lucianoojeda36/api-gateway" target="_blank">
+  <img align="center" src="./assets/Api-gateway.png" alt="API Gateway and Authentication Microservice" style="width: 300px; height: 200px; object-fit: cover; object-position: center;" />
 </a>
 <br /><br />
 
