@@ -2,7 +2,7 @@
 <h1 align="center">👋🏻 Hello, I'm Luciano Ojeda!</h2>
 
 <p align="center">
-  I'm a passionate Full Stack Developer with a love for programming, technology, and problem-solving. I have experience in both the software and consulting industries, working on web development and mobile application projects with a diverse range of technologies.
+ I'm a passionate Full Stack Developer and Civil Engineer with a love for programming, technology, and problem-solving. I have experience in both the software and consulting industries, working on web development and mobile application projects with a diverse range of technologies.
 </p>
 
 <h2 align="left">🚀 What am I currently doing?</h2>
