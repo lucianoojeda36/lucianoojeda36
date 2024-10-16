@@ -16,7 +16,7 @@
 <ul>
   <li><strong>Programming Languages:</strong> JavaScript, TypeScript, Dart, Java, Python</li>
   <li><strong>Frontend Frameworks:</strong> React, React Native, Next.js, Flutter, Styled Components, Bootstrap, Material UI, Ant Design</li>
-  <li><strong>Backend Frameworks:</strong> Node.js, Express, GraphQL, NestJS, Django, Flask, Spring Boot</li>
+  <li><strong>Backend Frameworks:</strong> Node.js, Express, GraphQL, NestJS, Django, Flask, Spring Boot, Serverless</li>
   <li><strong>Databases:</strong> PostgreSQL, MySQL, SQL Server, MongoDB, Firebase</li>
   <li><strong>Cloud & DevOps:</strong> AWS (EC2, S3, Lambda, Amplify), Docker, Firebase, Vercel, Netlify, CI/CD (GitLab, GitHub Actions)</li>
   <li><strong>Testing:</strong> Cypress, Jest</li>
